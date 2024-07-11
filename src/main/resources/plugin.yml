@@ -1,0 +1,6 @@
+name: BedHelther
+author: 和平peaceful
+version: '${project.version}'
+main: top.peacefuly.bedhelther.BedHelther
+api-version: '1.21'
+description: 玩家躺在床上，瞬间恢复生命值
